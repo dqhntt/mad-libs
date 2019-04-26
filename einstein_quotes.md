@@ -1,6 +1,6 @@
 # Einstein Quotes
 
-"Any intelligent fool can make things **[ADJECTIVE]**, more **[ADJECTIVE]**, 
+"Any intelligent fool can make things bigger, more fun, 
 and more violent. It takes a touch of genius -- and a lot of **[NOUN]** -- to 
 move in the opposite **[NOUN]**."
 
